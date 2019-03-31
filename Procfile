@@ -1,1 +1,1 @@
-worker: python ogg.py
+worker: python kamikaze.py
