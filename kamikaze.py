@@ -3,9 +3,7 @@ from discord.ext import commands
 import asyncio
 import re
 
-
 bot = commands.Bot(command_prefix='!!')
-
 
 #Bot Ready
 @bot.event
@@ -35,6 +33,4 @@ async def testembed(ctx):
     embed = discord.Embed(title="xes", description="Gamaei", colour=discord.Color.red(), url="www.google.com")
     await ctx.send(embed=embed)
 
- 
 bot.run('NTYxODU3OTgwNTEzOTEwODE0.XKCVIw.OKfecLRHcG-QP0DdQiAeaOsdPy8')
-
