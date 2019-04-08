@@ -33,4 +33,4 @@ async def testembed(ctx):
     embed = discord.Embed(title="xes", description="Gamaei", colour=discord.Color.red(), url="www.google.com")
     await ctx.send(embed=embed)
 
-bot.run('NTYxODU3OTgwNTEzOTEwODE0.XKCVIw.OKfecLRHcG-QP0DdQiAeaOsdPy8')
+bot.run('NTYxODU3OTgwNTEzOTEwODE0.XKtb1A.NAy7j5nnAloFVoj6qkiq1yQWLTI')
